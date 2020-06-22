@@ -5,3 +5,7 @@
     32G DDR4
     ASUS RX580 2304
     INTEL M.2 xxxx
+
+Catalina 10.15.5 (19F101)
+
+BIOS需要关闭的都要关闭，什么CFG、USB、CSM等等...
