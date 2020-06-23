@@ -8,7 +8,19 @@
 
 Catalina 10.15.5 (19F101)
 
-### BIOS需要关闭的都要关闭
+
+### BIOS需要打开选项
+VT-x
+Above 4G decoding
+Hyper-Threading
+Execute Disable Bit
+EHCI/XHCI Hand-off
+OS type: Windows 8.1/10 UEFI Mode
+DVMT Pre-Allocated(iGPU Memory): 64MB
+
+
+
+### BIOS需要关闭的选项
     快速启动
     安全启动
     VT-D （虽然可以不关闭，不过这个直通好象macos也用不上）
