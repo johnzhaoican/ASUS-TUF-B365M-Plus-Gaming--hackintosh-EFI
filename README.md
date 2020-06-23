@@ -1,12 +1,13 @@
 # ASUS-TUF B365M-Plus Gaming hackintosh-EFI OpenCore 0.59
+# Catalina 10.15.5 (19F101)
 
 ### 配置清单: 
-    i5 9400
-    32G DDR4
-    ASUS RX580 2304
-    INTEL M.2 xxxx
+    .i5 9400
+    .32G DDR4
+    .ASUS RX580 2304
+    .INTEL M.2 xxxx
 
-Catalina 10.15.5 (19F101)
+
 
 
 ### BIOS需要打开选项
