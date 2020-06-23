@@ -8,7 +8,7 @@
 
 Catalina 10.15.5 (19F101)
 
-# BIOS需要关闭的都要关闭
+## BIOS需要关闭的都要关闭
     快速启动
     安全启动
     VT-D （虽然可以不关闭，不过这个直通好象macos也用不上）
@@ -18,7 +18,7 @@ Catalina 10.15.5 (19F101)
     Intel Platform Trust
     CFG Lock
 
-# 参考网站：
+## 参考网站：
     OpenCore: https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html
     ProperTree：https://github.com/corpnewt/ProperTree
     GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
