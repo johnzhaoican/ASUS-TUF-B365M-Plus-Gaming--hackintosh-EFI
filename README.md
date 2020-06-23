@@ -2,23 +2,22 @@
 # Catalina 10.15.5 (19F101)
 
 ### 配置清单: 
-    - i5 9400
-    - 32G DDR4
-    - ASUS RX580 2304
-    - INTEL M.2 xxxx
+    i5 9400
+    32G DDR4
+    ASUS RX580 2304
+    INTEL M.2 xxxx
 
 
 
 - BIOS需要打开选项
-```(bash)
-     - VT-x
-     - Above 4G decoding
-     - Hyper-Threading
-     - Execute Disable Bit
-     - EHCI/XHCI Hand-off
-     - OS type: Windows 8.1/10 UEFI Mode
-     - DVMT Pre-Allocated(iGPU Memory): 64MB
-```
+  - VT-x
+  - Above 4G decoding
+  - Hyper-Threading
+  - Execute Disable Bit
+  - EHCI/XHCI Hand-off
+  - OS type: Windows 8.1/10 UEFI Mode
+  - DVMT Pre-Allocated(iGPU Memory): 64MB
+
 
 
 ### BIOS需要关闭的选项
