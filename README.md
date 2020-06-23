@@ -10,6 +10,7 @@
 
 
 - BIOS需要打开选项
+```(bash)
       VT-x
       Above 4G decoding
       Hyper-Threading
@@ -17,7 +18,7 @@
       EHCI/XHCI Hand-off
       OS type: Windows 8.1/10 UEFI Mode
       DVMT Pre-Allocated(iGPU Memory): 64MB
-
+```
 
 
 ### BIOS需要关闭的选项
