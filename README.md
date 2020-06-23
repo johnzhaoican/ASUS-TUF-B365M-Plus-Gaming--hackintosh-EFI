@@ -1,4 +1,4 @@
-# ASUS-B365-hackintosh-EFI
+# ASUS-TUF B365M-Plus Gaming hackintosh-EFI
 
 # 配置清单: 
     i5 9400
