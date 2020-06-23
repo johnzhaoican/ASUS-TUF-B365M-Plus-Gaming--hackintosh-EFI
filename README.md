@@ -9,8 +9,7 @@
 
 
 
-
-### - BIOS需要打开选项
+- BIOS需要打开选项
       VT-x
       Above 4G decoding
       Hyper-Threading
