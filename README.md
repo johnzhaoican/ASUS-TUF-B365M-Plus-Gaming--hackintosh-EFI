@@ -11,13 +11,13 @@
 
 - BIOS需要打开选项
 ```(bash)
-      VT-x
-      Above 4G decoding
-      Hyper-Threading
-      Execute Disable Bit
-      EHCI/XHCI Hand-off
-      OS type: Windows 8.1/10 UEFI Mode
-      DVMT Pre-Allocated(iGPU Memory): 64MB
+     - VT-x
+     - Above 4G decoding
+     - Hyper-Threading
+     - Execute Disable Bit
+     - EHCI/XHCI Hand-off
+     - OS type: Windows 8.1/10 UEFI Mode
+     - DVMT Pre-Allocated(iGPU Memory): 64MB
 ```
 
 
