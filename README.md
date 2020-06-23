@@ -11,8 +11,8 @@ Catalina 10.15.5 (19F101)
 BIOS需要关闭的都要关闭，什么CFG、USB、CSM等等...
 
 # 参考网站：
-OpenCore: https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html
-ProperTree：https://github.com/corpnewt/ProperTree
-GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
+    OpenCore: https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html
+    ProperTree：https://github.com/corpnewt/ProperTree
+    GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
 
 目前使用未发现问题
