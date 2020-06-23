@@ -21,8 +21,8 @@ Catalina 10.15.5 (19F101)
 
 
 ### BIOS需要关闭的选项
-    快速启动
-    安全启动
+    Fast Boot
+    Secure Boot
     VT-D （虽然可以不关闭，不过这个直通好象macos也用不上）
     CSM
     Thunderbolt
