@@ -10,13 +10,13 @@ Catalina 10.15.5 (19F101)
 
 
 ### BIOS需要打开选项
-VT-x
-Above 4G decoding
-Hyper-Threading
-Execute Disable Bit
-EHCI/XHCI Hand-off
-OS type: Windows 8.1/10 UEFI Mode
-DVMT Pre-Allocated(iGPU Memory): 64MB
+    VT-x
+    Above 4G decoding
+    Hyper-Threading
+    Execute Disable Bit
+    EHCI/XHCI Hand-off
+    OS type: Windows 8.1/10 UEFI Mode
+    DVMT Pre-Allocated(iGPU Memory): 64MB
 
 
 
@@ -29,6 +29,8 @@ DVMT Pre-Allocated(iGPU Memory): 64MB
     Intel SGX
     Intel Platform Trust
     CFG Lock
+
+
 
 ### 参考网站：
     OpenCore: https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html
