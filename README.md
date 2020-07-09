@@ -38,3 +38,4 @@
     - GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
 
 ## 目前使用未发现问题
+### 如何你使用了这EFI作为安装，那建议你把：ShowPicker 设置为true，否则你将会看不到启动菜单
