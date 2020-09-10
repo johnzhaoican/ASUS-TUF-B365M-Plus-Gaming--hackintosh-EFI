@@ -1,12 +1,12 @@
-# Catalina 10.15.5 (19F101)
-# ASUS-TUF B365M-Plus Gaming hackintosh-EFI OpenCore 0.59
+# Catalina 11 (20A5364e)
+# ASUS-TUF B365M-Plus Gaming hackintosh-EFI OpenCore 0.61
 
  - 配置清单: 
    - Intel i5 9400
    - Kingston 8G DDR4 2666 * 4
    - ASUS RX580 2304
    - INTEL SSDPEKKW512G8
-   - LG HDR DQHD 打开 HIDPI
+   - VX2478-4K-HD
 
 
 - BIOS需要打开选项
@@ -33,9 +33,10 @@
 
 
 - 参考网站：
-    - OpenCore: https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html
+    - OpenCore: https://github.com/acidanthera/OpenCorePkg
+    - OpenCoreGuide: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
     - ProperTree：https://github.com/corpnewt/ProperTree
     - GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
 
-## 目前使用未发现问题
+## 目前使用中发现蓝牙异常
 ### 如何你使用了这EFI作为安装，那建议你把：ShowPicker 设置为true，否则你将会看不到启动菜单
