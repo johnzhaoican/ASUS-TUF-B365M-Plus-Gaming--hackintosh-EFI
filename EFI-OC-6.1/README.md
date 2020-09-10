@@ -1,4 +1,4 @@
-# Catalina 11 (20A5364e)
+# BigSur 11 (20A5364e)
 # ASUS-TUF B365M-Plus Gaming hackintosh-EFI OpenCore 0.61
 
  - 配置清单: 
